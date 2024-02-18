@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Rany and I'm a  FrontEnd developer.
+Hi, I'm Randy and I'm a FrontEnd developer.
 
 Big believer of helping each other and loving to share are good karma which can lead this community to be more friendly and better.
 
