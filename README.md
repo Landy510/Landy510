@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🧒 About Me
-Hi, I'm Randy and I'm a FrontEnd developer.
+Hi, I'm Randy and I'm a FrontEnd developer. <br/>
 Big believer of helping each other and loving to share are good karma which can lead this community to be more friendly and better.
 
 ## 🧰 Building Projects with
